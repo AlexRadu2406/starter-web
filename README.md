@@ -14,6 +14,8 @@ adding some test stuff
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull requests
+
 adding some test stuff
 
 ### Copyright
