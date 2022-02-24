@@ -15,3 +15,6 @@ adding some test stuff
 ## How to Contribute
 
 adding some test stuff
+
+### Copyright
+Git.Training 
